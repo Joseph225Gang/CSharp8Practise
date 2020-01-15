@@ -9,3 +9,14 @@ D:\Visual Studio\CSharp8Net3Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1
 D:\Visual Studio\CSharp8Net3Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1\CSharp8Net3Practise.AssemblyInfo.cs
 D:\Visual Studio\CSharp8Net3Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1\CSharp8Net3Practise.dll
 D:\Visual Studio\CSharp8Net3Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1\CSharp8Net3Practise.pdb
+D:\Github\CSharp8Practise\CSharp8Net3Practise\bin\Debug\netcoreapp3.1\CSharp8Net3Practise.exe
+D:\Github\CSharp8Practise\CSharp8Net3Practise\bin\Debug\netcoreapp3.1\CSharp8Net3Practise.deps.json
+D:\Github\CSharp8Practise\CSharp8Net3Practise\bin\Debug\netcoreapp3.1\CSharp8Net3Practise.runtimeconfig.json
+D:\Github\CSharp8Practise\CSharp8Net3Practise\bin\Debug\netcoreapp3.1\CSharp8Net3Practise.runtimeconfig.dev.json
+D:\Github\CSharp8Practise\CSharp8Net3Practise\bin\Debug\netcoreapp3.1\CSharp8Net3Practise.dll
+D:\Github\CSharp8Practise\CSharp8Net3Practise\bin\Debug\netcoreapp3.1\CSharp8Net3Practise.pdb
+D:\Github\CSharp8Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1\CSharp8Net3Practise.csprojAssemblyReference.cache
+D:\Github\CSharp8Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1\CSharp8Net3Practise.AssemblyInfoInputs.cache
+D:\Github\CSharp8Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1\CSharp8Net3Practise.AssemblyInfo.cs
+D:\Github\CSharp8Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1\CSharp8Net3Practise.dll
+D:\Github\CSharp8Practise\CSharp8Net3Practise\obj\Debug\netcoreapp3.1\CSharp8Net3Practise.pdb
