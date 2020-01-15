@@ -23,7 +23,7 @@ namespace CSharp8Net3Practise
             var allButFirst = numbers[1..];
             var lastItemRange = numbers[^1..];
             var lastItem = numbers[^1];
-            var lastThree = numbers[^3];
+            var lastThree = numbers[^3..];
 
             Index middle = 4;
             Index threeFromEnd = ^3;
