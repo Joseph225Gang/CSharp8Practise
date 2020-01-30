@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\CSharp8Practise\\CSharp8Net3Practise\\CSharp8Net3Practise.csproj",
-      "projectName": "CSharp8Net3Practise",
-      "projectPath": "D:\\Github\\CSharp8Practise\\CSharp8Net3Practise\\CSharp8Net3Practise.csproj",
+      "projectUniqueName": "D:\\Github\\CSharp8Practise\\NullableSample\\NullableSample.csproj",
+      "projectName": "NullableSample",
+      "projectPath": "D:\\Github\\CSharp8Practise\\NullableSample\\NullableSample.csproj",
       "packagesPath": "C:\\Users\\Kwei-GangLai\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\CSharp8Practise\\CSharp8Net3Practise\\obj\\",
+      "outputPath": "D:\\Github\\CSharp8Practise\\NullableSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
