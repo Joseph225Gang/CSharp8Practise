@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp8Net3Practise", "CSharp8Net3Practise\CSharp8Net3Practise.csproj", "{382410E5-C5B3-45F9-8C32-7EC0D5973D74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableSample", "NullableSample\NullableSample.csproj", "{F1697041-6399-415E-B008-6F44017335C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableSample", "NullableSample\NullableSample.csproj", "{F1697041-6399-415E-B008-6F44017335C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonSample", "JsonSample\JsonSample.csproj", "{C21D2781-634E-4C36-9469-1633D7A12D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtherLanguageSample", "OtherLanguageSample\OtherLanguageSample.csproj", "{76E5E947-288F-4EBE-A218-50CA8C5B03B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{F1697041-6399-415E-B008-6F44017335C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1697041-6399-415E-B008-6F44017335C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1697041-6399-415E-B008-6F44017335C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21D2781-634E-4C36-9469-1633D7A12D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21D2781-634E-4C36-9469-1633D7A12D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21D2781-634E-4C36-9469-1633D7A12D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21D2781-634E-4C36-9469-1633D7A12D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E5E947-288F-4EBE-A218-50CA8C5B03B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E5E947-288F-4EBE-A218-50CA8C5B03B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E5E947-288F-4EBE-A218-50CA8C5B03B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E5E947-288F-4EBE-A218-50CA8C5B03B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

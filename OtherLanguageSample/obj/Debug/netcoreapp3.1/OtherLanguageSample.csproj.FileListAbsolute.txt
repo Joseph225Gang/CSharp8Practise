@@ -1,0 +1,11 @@
+D:\Github\CSharp8Practise\OtherLanguageSample\bin\Debug\netcoreapp3.1\OtherLanguageSample.exe
+D:\Github\CSharp8Practise\OtherLanguageSample\bin\Debug\netcoreapp3.1\OtherLanguageSample.deps.json
+D:\Github\CSharp8Practise\OtherLanguageSample\bin\Debug\netcoreapp3.1\OtherLanguageSample.runtimeconfig.json
+D:\Github\CSharp8Practise\OtherLanguageSample\bin\Debug\netcoreapp3.1\OtherLanguageSample.runtimeconfig.dev.json
+D:\Github\CSharp8Practise\OtherLanguageSample\bin\Debug\netcoreapp3.1\OtherLanguageSample.dll
+D:\Github\CSharp8Practise\OtherLanguageSample\bin\Debug\netcoreapp3.1\OtherLanguageSample.pdb
+D:\Github\CSharp8Practise\OtherLanguageSample\obj\Debug\netcoreapp3.1\OtherLanguageSample.csprojAssemblyReference.cache
+D:\Github\CSharp8Practise\OtherLanguageSample\obj\Debug\netcoreapp3.1\OtherLanguageSample.AssemblyInfoInputs.cache
+D:\Github\CSharp8Practise\OtherLanguageSample\obj\Debug\netcoreapp3.1\OtherLanguageSample.AssemblyInfo.cs
+D:\Github\CSharp8Practise\OtherLanguageSample\obj\Debug\netcoreapp3.1\OtherLanguageSample.dll
+D:\Github\CSharp8Practise\OtherLanguageSample\obj\Debug\netcoreapp3.1\OtherLanguageSample.pdb

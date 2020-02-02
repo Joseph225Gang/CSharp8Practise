@@ -1,0 +1,11 @@
+D:\Github\CSharp8Practise\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.exe
+D:\Github\CSharp8Practise\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.deps.json
+D:\Github\CSharp8Practise\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.runtimeconfig.json
+D:\Github\CSharp8Practise\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.runtimeconfig.dev.json
+D:\Github\CSharp8Practise\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.dll
+D:\Github\CSharp8Practise\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.pdb
+D:\Github\CSharp8Practise\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.csprojAssemblyReference.cache
+D:\Github\CSharp8Practise\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.AssemblyInfoInputs.cache
+D:\Github\CSharp8Practise\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.AssemblyInfo.cs
+D:\Github\CSharp8Practise\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.dll
+D:\Github\CSharp8Practise\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.pdb
